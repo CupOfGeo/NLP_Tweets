@@ -1,0 +1,51 @@
+appnope @ file:///opt/concourse/worker/volumes/live/0291c9e1-4b15-459f-623e-2770f55be269/volume/appnope_1594338395037/work
+backcall==0.2.0
+blis==0.7.4
+catalogue==2.0.1
+certifi==2020.6.20
+chardet==4.0.0
+click==7.1.2
+cymem==2.0.5
+decorator==4.4.2
+en-core-web-md @ https://github.com/explosion/spacy-models/releases/download/en_core_web_md-3.0.0/en_core_web_md-3.0.0-py3-none-any.whl
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.0.0/en_core_web_sm-3.0.0-py3-none-any.whl
+idna==2.10
+ipykernel @ file:///opt/concourse/worker/volumes/live/88f541d3-5a27-498f-7391-f2e50ca36560/volume/ipykernel_1596206680118/work/dist/ipykernel-5.3.4-py3-none-any.whl
+ipython @ file:///opt/concourse/worker/volumes/live/90527372-a5f7-4d48-68c2-a99de2ba31c7/volume/ipython_1599056199422/work
+ipython-genutils==0.2.0
+jedi @ file:///opt/concourse/worker/volumes/live/904d39c2-2f20-46c0-487d-9a3d2725434d/volume/jedi_1611333757211/work
+Jinja2==2.11.3
+jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1601311786391/work
+jupyter-core==4.6.3
+MarkupSafe==1.1.1
+murmurhash==1.0.5
+numpy==1.20.0
+packaging==20.9
+pandas==1.2.1
+parso @ file:///tmp/build/80754af9/parso_1596826841367/work
+pathy==0.3.5
+pexpect @ file:///opt/concourse/worker/volumes/live/8701bb20-ad87-46c7-5108-30c178cf97e5/volume/pexpect_1594383388344/work
+pickleshare @ file:///opt/concourse/worker/volumes/live/93ec39d8-05bb-4f84-7efc-98735bc39b70/volume/pickleshare_1594384101884/work
+preshed==3.0.5
+prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1602688806899/work
+ptyprocess==0.6.0
+pydantic==1.7.3
+Pygments @ file:///tmp/build/80754af9/pygments_1600458456400/work
+pyparsing==2.4.7
+python-dateutil==2.8.1
+pytz==2021.1
+pyzmq==19.0.2
+requests==2.25.1
+six==1.15.0
+smart-open==3.0.0
+spacy==3.0.1
+spacy-legacy==3.0.1
+srsly==2.4.0
+thinc==8.0.1
+tornado==6.0.4
+tqdm==4.56.0
+traitlets @ file:///tmp/build/80754af9/traitlets_1602787416690/work
+typer==0.3.2
+urllib3==1.26.3
+wasabi==0.8.2
+wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
