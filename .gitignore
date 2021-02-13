@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+GRU_trump/*
 # C extensions
 *.so
 
