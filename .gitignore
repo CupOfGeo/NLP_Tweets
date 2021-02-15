@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 GRU_trump/*
+DONTPUSH/
 # C extensions
 *.so
 
