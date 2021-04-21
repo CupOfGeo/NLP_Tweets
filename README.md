@@ -1,4 +1,7 @@
 # NLP_Tweets
+This porject was purly for fun and learning about text generation the final project is now in google colab with gpt-2 and will not be relased to the public
+
+
 We will be using trump tweets from a kaggle dataset to generate new trump tweets https://www.kaggle.com/ahmedterry/trump-tweets-eda-nlp-sentiments-analysis
 
 for out first model we used spacy to tokenize the documents and we use spaces doc.vocab to convert the tokens to hashes and vice versa.
